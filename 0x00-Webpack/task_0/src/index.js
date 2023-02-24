@@ -1,5 +1,3 @@
-import $ from "jquery";
-
 const $ = require( "jquery" );
 
 $('body').append('<p>Holberton Dashboard</p>');
