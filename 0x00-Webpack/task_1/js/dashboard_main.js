@@ -1,4 +1,4 @@
-const $ = require( "jQuery" );
+const $ = require( "jquery" );
 // Load the full build
 const _ = require("lodash");
 
