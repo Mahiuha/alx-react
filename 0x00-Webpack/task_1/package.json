@@ -1,26 +1,32 @@
 {
   "name": "task_1",
   "version": "1.0.0",
-  "description": "",
+  "description": "config file webpack",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack --mode development",
-    "build": "webpack --mode production"
+    "build": "webpack"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "asset",
+    "compilation",
+    "entry",
+    "points",
+    "javascript",
+    "loaders",
+    "output",
+    "webpack",
+    "plugins"
+  ],
+  "author": "Joseph Mahiuha",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^5.75.0",
-    "webpack-cli": "^5.0.1"
+    "webpack": "^5.50.0",
+    "webpack-cli": "^4.8.0"
   },
   "dependencies": {
-    "jQuery": "^1.7.4",
-    "jsdom": "^21.1.0",
-    "location": "0.0.1",
-    "lodash": "^4.17.21",
-    "navigator": "^1.0.1",
-    "xmlhttprequest": "^1.8.0"
+    "jquery": "^3.6.0",
+    "lodash": "^4.17.21"
   }
 }
